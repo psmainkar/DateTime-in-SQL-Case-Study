@@ -1,0 +1,1 @@
+This is a case study based on SQL's date and time functions. I have put my knowledge of SQL's date and time functions into practical usage in a dataset based on the timetable of flights of a certain duration.
